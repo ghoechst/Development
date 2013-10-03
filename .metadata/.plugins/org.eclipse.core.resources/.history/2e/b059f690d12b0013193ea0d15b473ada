@@ -1,6 +1,6 @@
 public class Fraction
 {
-	//fields
+	//field
 	private int numerator;
 	private int denominator;
 	
